@@ -1,0 +1,32 @@
+Example run (illustrative):
+
+STOCK PORTFOLIO TRACKER
+CodeAlpha - Task 2
+
+Available stocks (sample prices in USD):
+AAPL      $180.00
+TSLA      $250.00
+GOOGL     $140.00
+MSFT      $420.00
+AMZN      $175.00
+NVDA      $120.00
+META      $500.00
+
+Stock symbol: AAPL
+Enter quantity (whole shares): 2
+Added 2 share(s) of AAPL.
+
+Stock symbol: TSLA
+Enter quantity (whole shares): 3
+Added 3 share(s) of TSLA.
+
+Stock symbol: DONE
+
+                 STOCK PORTFOLIO SUMMARY
+Symbol          Price/Share      Quantity          Investment
+AAPL                $180.00             2              $360.00
+TSLA                $250.00             3              $750.00
+TOTAL INVESTMENT                                $1,110.00
+
+Would you like to save this summary as a CSV file? (y/n): y
+Portfolio successfully saved to: .../portfolio_summary.csv
