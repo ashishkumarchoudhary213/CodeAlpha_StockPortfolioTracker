@@ -83,6 +83,7 @@ If CSV export is selected, the program creates `portfolio_summary.csv` in the fo
 
 ```text
 CodeAlpha_StockPortfolioTracker/
+│
 ├── main.py
-└── README.md
-```
+├── README.md
+└── sample_output.txt
